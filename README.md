@@ -1,5 +1,7 @@
 # PCAPanalyzer / PWNShark
 
+Created by Iftakar Kaysar and Aaron Allen
+
 A python script built with Pyshark to parse PCAP files and detect malicious behavior and cyberattacks.
 By leveraging the pyshark library- PWNshark is able to parse through a pcap file and search for malicious behaviors and IOC's
 The motivation for this project was to create a script that analysts could use in order to get summarized high level view on what’s taking place in a large set of data before actually getting into the file.
